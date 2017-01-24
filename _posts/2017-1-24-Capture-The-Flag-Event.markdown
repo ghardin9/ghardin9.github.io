@@ -18,8 +18,8 @@ I had never tried to compromise another system before that wasn't my own and I w
 I began talking amongst the other individuals and one of them with much more experience than I said they were willing to
 help me get started. We talked briefly about some basic vulnerabilities that one might expect on a web server and then we
 discussed in depth some of the tools that would help me accomplish my task. My tutor (of sorts) suggested that Armitage may
-be the best application for my current needs.I have had some limited experience before with the metsploit suite using a command
-line interface to do almost all of the work but I was taken back by how grpahically rich Armitage was. I had epected to see
+be the best application for my current needs.I have had some limited experience before with the Metasploit suite using a command
+line interface to do almost all of the work but I was taken back by how graphically rich Armitage was. I had expected to see
 nothing other than a command prompt but instead discovered this application had a beautiful graphical user interface with many
 buttons, task bars and drop down menus.
 
@@ -29,11 +29,11 @@ had heard many times of people exploiting this application before so I thought t
 had a plethora of drop down options for apache exploits but with my limited knowledge I wasn't sure how to hone in on which ones might
 work. In hindsight I probably should have used some google fu on the apache server version but alas I chose to brute force through the list.
 This led to quite a bit of frustration but before I gave up my mentor came by to ask how things were progressing. I told them of the headway
-I had made and my thought process. After some uncessful attempts on both our parts to troubleshoot the apache exploit route they pointed me
+I had made and my thought process. After some unsuccessful attempts on both our parts to troubleshoot the apache exploit route they pointed me
 in the direction of using the hail mary option. This was a catch all method trying to find a way to compromise the CTF box. The one downside
-to this method was I had no way of knowing which exploit worked as it was tring them all. The hail mary worked and I had sucessfully compromised
-the sytem and in return I received a shell prompt in return. I was familiar with navigation through a linux based system but not so much with
-privelege excalation methods. I was able to locate the target folder but without any elevated priveleges I wasn't going to be able to receive
+to this method was I had no way of knowing which exploit worked as it was trying them all. The hail mary worked and I had successfully compromised
+the system and in return I received a shell prompt in return. I was familiar with navigation through a linux based system but not so much with
+privilege escalation methods. I was able to locate the target folder but without any elevated privilege I wasn't going to be able to receive
 any points. Time eventually expired on me when the mall needed to close. Empty handed and full of newly found knowledge I knew I needed to
-work on privelege escalation if I was going to have any luck in future events. I am really looking forward to next time and hoping to gauge how
-far I have come by a successful completeion of the event.
+work on privilege escalation if I was going to have any luck in future events. I am really looking forward to next time and hoping to gauge how
+far I have come by a successful completion of the event.
